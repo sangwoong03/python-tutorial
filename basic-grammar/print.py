@@ -19,5 +19,5 @@ print(variables[1])
 # 문자열과 변수 같이 사용하여 출력하기
 print("================================ 문자열+변수 ================================")
 print(variables + "aaaaaaaaaaaaa")
-print(f"변수1 = {variables}")
+print(f"""변수1 = {variables}""")
 print("변수2 = {}.".format(variables))
